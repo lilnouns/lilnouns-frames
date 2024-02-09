@@ -19,6 +19,7 @@
     "hono": "3.12.12"
   },
   "devDependencies": {
+    "@cloudflare/workers-types": "4.20240208.0",
     "@types/eslint": "8.56.2",
     "@types/eslint-config-prettier": "6.11.3",
     "@types/node": "20.11.16",
