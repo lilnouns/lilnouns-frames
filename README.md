@@ -35,12 +35,6 @@
 
 ### Usage Guide
 
-The template uses [Localtunnel](https://github.com/localtunnel/localtunnel) which allows you to easily test your frames
-without the need to deploy them. Everytime running your project, you will receive a random URL, for
-example `https://thirty-glasses-tell.loca.lt`. You can directly copy this URL and test your frame using
-the [Warpcast Embed Tools](https://warpcast.com/~/developers/embeds). This makes the
-development and testing process much more efficient and straightforward.
-
 For detailed information on working with Farcaster Frames, refer to
 the [Farcaster Frames documentation](https://docs.farcaster.xyz/learn/what-is-farcaster/frames).
 Additionally, to learn more about Hono, visit the [Hono documentation](https://hono.dev/top).
