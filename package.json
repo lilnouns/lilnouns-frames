@@ -9,10 +9,9 @@
   "author": "Milad Nekofar <milad@nekofar.com>",
   "license": "Apache-2.0",
   "scripts": {
-    "dev": "pnpm run '/^dev:.*/'",
-    "dev:server": "tsx watch src/index.ts",
-    "dev:tunnel": "lt --port 3000",
-    "lint": "eslint . --ext .ts,.tsx"
+    "dev": "wrangler dev src/index.ts",
+    "lint": "eslint . --ext .ts,.tsx",
+    "deploy": "wrangler deploy --minify src/index.ts"
   },
   "dependencies": {
     "@hono/node-server": "1.7.0",
