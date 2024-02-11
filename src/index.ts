@@ -1,8 +1,8 @@
 import { Hono } from 'hono'
 import { hello } from './routes'
-import { HonoEnvironment } from './types'
+import { Environment } from './types'
 
-const app = new Hono<HonoEnvironment>()
+const app = new Hono<Environment>()
 
 app.route('/hello', hello)
 
