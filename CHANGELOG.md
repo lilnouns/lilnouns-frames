@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0-alpha.1] - 2024-02-11
+
+### Features
+
+- Add `checkENSExists` function to check ens availability
+- Create new method for generate each page using Cloudinary
+- Create domains routes for check subdomain availability
+
+### Refactor
+
+- Move hello routes to the routes folder
+- Move types over separate files and add binding for Hono
+
+### Miscellaneous Tasks
+
+- Add back localtunnel to the scripts
+
 ## [1.0.0-alpha.0] - 2024-02-09
 
 ### Refactor
