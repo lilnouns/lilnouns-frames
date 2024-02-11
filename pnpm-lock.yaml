@@ -25,6 +25,9 @@ devDependencies:
   '@types/eslint-config-prettier':
     specifier: 6.11.3
     version: 6.11.3
+  '@types/localtunnel':
+    specifier: 2.0.2
+    version: 2.0.2
   '@types/node':
     specifier: 20.11.16
     version: 20.11.16
@@ -731,6 +734,12 @@ packages:
 
   /@types/json-schema@7.0.15:
     resolution: {integrity: sha512-5+fP8P8MFNC+AyZCDxrB2pkZFPGzqQWUzpSeuuVLvm8VMcorNYavBqoFcxK8bQz4Qsbn4oUEEem4wDLfcysGHA==}
+    dev: true
+
+  /@types/localtunnel@2.0.2:
+    resolution: {integrity: sha512-jDCzqBiO0j5Tki2xbunqu0GHq1mnqb3PQrAWFCDc7U2DciLQ0VnH3wDjLZL8/nxrECNgGY1Axfle5g7hDMfiQQ==}
+    dependencies:
+      '@types/node': 20.11.16
     dev: true
 
   /@types/mdast@4.0.3:
