@@ -9,8 +9,8 @@ overrides:
 
 dependencies:
   '@cloudinary/url-gen':
-    specifier: 1.13.0
-    version: 1.13.0
+    specifier: 1.16.1
+    version: 1.16.1
   hono:
     specifier: 4.0.1
     version: 4.0.1
@@ -158,16 +158,16 @@ packages:
     resolution: {integrity: sha512-MVGTTjZpJu4kJONvai5SdJzWIhOJbuweVZ3goI7FNyG+JdoQH41OoB+nMhLsX626vPLZVWGPIWsiSo/WZHzgQw==}
     dev: true
 
-  /@cloudinary/transformation-builder-sdk@1.8.0:
-    resolution: {integrity: sha512-/QLSDDI+rfYH3bFH+DpgEk8NgSoeqwiea9GW5VXplcpebQOOcFqOzNFM6Hlik3PDqq4JMP4s3E7BoPZ1Rdk/IQ==}
+  /@cloudinary/transformation-builder-sdk@1.11.0:
+    resolution: {integrity: sha512-BRHcjkMc0zSgyLnYtE+KQG1AyaC2EAHfuGzSJRGiLVsLD8UzLcC8S3GFzzKOPVzGQi0IPm21b1F7M6oqsF8FrQ==}
     dependencies:
-      '@cloudinary/url-gen': 1.13.0
+      '@cloudinary/url-gen': 1.16.1
     dev: false
 
-  /@cloudinary/url-gen@1.13.0:
-    resolution: {integrity: sha512-p7ASCX2fZw1JWtMG2ADd/Y0TfvE5SX9v0TDJDlzXX3OlNxLSuqzLWGgj5oJD4ZTo62FdxH24N8HPZ7NXEXtj5g==}
+  /@cloudinary/url-gen@1.16.1:
+    resolution: {integrity: sha512-lRg0LlRJKrHHhSAedwR7u4YDvPQ2zuyXH3FpmyD8Ki6+/pcRVEJmkokKYnnbRNsu40smXFNJa6IHqjxsfbMmQg==}
     dependencies:
-      '@cloudinary/transformation-builder-sdk': 1.8.0
+      '@cloudinary/transformation-builder-sdk': 1.11.0
     dev: false
 
   /@cspotcode/source-map-support@0.8.1:
