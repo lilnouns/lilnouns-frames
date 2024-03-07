@@ -9,8 +9,8 @@ overrides:
 
 dependencies:
   '@cloudinary/url-gen':
-    specifier: 1.18.0
-    version: 1.18.0
+    specifier: 1.19.0
+    version: 1.19.0
   hono:
     specifier: 4.0.8
     version: 4.0.8
@@ -161,11 +161,11 @@ packages:
   /@cloudinary/transformation-builder-sdk@1.13.0:
     resolution: {integrity: sha512-RCP+/B97t+rhh5ZmnOBerM45b73QATIXBv10SqOh9SU03GlNhsK3D3Ol9hrdCd1dcYks/rrTaK41Li5GNSEDJQ==}
     dependencies:
-      '@cloudinary/url-gen': 1.18.0
+      '@cloudinary/url-gen': 1.19.0
     dev: false
 
-  /@cloudinary/url-gen@1.18.0:
-    resolution: {integrity: sha512-IszTCvSyvLOOAqtfM47h1jPbWptG0HU7spr4WkO9KdkZfITGk+autVC6lkFZrcbxbu4MRhqUqNklQ7P9yZpqYw==}
+  /@cloudinary/url-gen@1.19.0:
+    resolution: {integrity: sha512-3WSqYAMEe8lcYMFmkNPhOfv6Ql76mpf8O7YEC+CCaoIYrfBubzzeF8yENCaZK9tFJEHvMepI+uWWfilNrz48XA==}
     dependencies:
       '@cloudinary/transformation-builder-sdk': 1.13.0
     dev: false

@@ -16,7 +16,7 @@
     "deploy": "wrangler deploy --minify src/index.ts"
   },
   "dependencies": {
-    "@cloudinary/url-gen": "1.18.0",
+    "@cloudinary/url-gen": "1.19.0",
     "hono": "4.0.8"
   },
   "devDependencies": {
