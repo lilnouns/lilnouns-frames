@@ -29,8 +29,8 @@ devDependencies:
     specifier: 2.0.4
     version: 2.0.4
   '@types/node':
-    specifier: 20.11.25
-    version: 20.11.25
+    specifier: 20.11.26
+    version: 20.11.26
   '@typescript-eslint/eslint-plugin':
     specifier: 7.1.1
     version: 7.1.1(@typescript-eslint/parser@7.1.1)(eslint@8.57.0)(typescript@5.4.2)
@@ -739,7 +739,7 @@ packages:
   /@types/localtunnel@2.0.4:
     resolution: {integrity: sha512-7WM5nlEfEKp8MpwthPa2utdy+f/7ZBxMPzu8qw6EijFFTcpzh5CXgt2YoncxWAZNOPNieMofXCKFudtDEY4bag==}
     dependencies:
-      '@types/node': 20.11.25
+      '@types/node': 20.11.26
     dev: true
 
   /@types/mdast@4.0.3:
@@ -752,8 +752,8 @@ packages:
     resolution: {integrity: sha512-nG96G3Wp6acyAgJqGasjODb+acrI7KltPiRxzHPXnP3NgI28bpQDRv53olbqGXbfcgF5aiiHmO3xpwEpS5Ld9g==}
     dev: true
 
-  /@types/node@20.11.25:
-    resolution: {integrity: sha512-TBHyJxk2b7HceLVGFcpAUjsa5zIdsPWlR6XHfyGzd0SFu+/NFgQgMAl96MSDZgQDvJAvV6BKsFOrt6zIL09JDw==}
+  /@types/node@20.11.26:
+    resolution: {integrity: sha512-YwOMmyhNnAWijOBQweOJnQPl068Oqd4K3OFbTc6AHJwzweUwwWG3GIFY74OKks2PJUDkQPeddOQES9mLn1CTEQ==}
     dependencies:
       undici-types: 5.26.5
     dev: true
