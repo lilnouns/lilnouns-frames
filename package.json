@@ -20,7 +20,7 @@
     "hono": "4.2.0"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "4.20240329.0",
+    "@cloudflare/workers-types": "4.20240402.0",
     "@types/eslint": "8.56.7",
     "@types/eslint-config-prettier": "6.11.3",
     "@types/localtunnel": "2.0.4",
