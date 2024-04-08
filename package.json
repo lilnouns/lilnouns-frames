@@ -41,7 +41,8 @@
     "wrangler": "3.45.0"
   },
   "resolutions": {
-    "axios": ">=1.6.0"
+    "axios": ">=1.6.0",
+    "undici": ">=5.28.4"
   },
   "engines": {
     "node": ">=18.0.0",
