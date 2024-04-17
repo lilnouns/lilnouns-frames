@@ -37,7 +37,7 @@
     "prettier-plugin-organize-attributes": "1.0.0",
     "prettier-plugin-organize-imports": "3.2.4",
     "tsx": "4.7.2",
-    "typescript": "5.4.4",
+    "typescript": "5.4.5",
     "wrangler": "3.48.0"
   },
   "resolutions": {
