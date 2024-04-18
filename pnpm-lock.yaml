@@ -2303,7 +2303,7 @@ packages:
       exit-hook: 2.2.1
       glob-to-regexp: 0.4.1
       stoppable: 1.1.0
-      undici: 6.7.1
+      undici: 6.13.0
       workerd: 1.20240405.0
       ws: 8.15.1
       youch: 3.3.1
@@ -2949,8 +2949,8 @@ packages:
     resolution: {integrity: sha512-JlCMO+ehdEIKqlFxk6IfVoAUVmgz7cU7zD/h9XZ0qzeosSHmUJVOzSQvvYSYWXkFXC+IfLKSIffhv0sVZup6pA==}
     dev: true
 
-  /undici@6.7.1:
-    resolution: {integrity: sha512-+Wtb9bAQw6HYWzCnxrPTMVEV3Q1QjYanI0E4q02ehReMuquQdLTEFEYbfs7hcImVYKcQkWSwT6buEmSVIiDDtQ==}
+  /undici@6.13.0:
+    resolution: {integrity: sha512-Q2rtqmZWrbP8nePMq7mOJIN98M0fYvSgV89vwl/BQRT4mDOeY2GXZngfGpcBBhtky3woM7G24wZV3Q304Bv6cw==}
     engines: {node: '>=18.0'}
     dev: true
 
