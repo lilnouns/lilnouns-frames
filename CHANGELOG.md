@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0-alpha.7] - 2024-05-07
+
+### ⚙️ Miscellaneous Tasks
+
+- Update Git Cliff configs and the changelog
+- Update compatibility date on wrangler configs
+
 ## [1.0.0-alpha.6] - 2024-04-27
 
 ### 🐛 Bug Fixes
