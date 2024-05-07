@@ -2,65 +2,72 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0-alpha.7] - 2024-05-07
+
+### ⚙️ Miscellaneous Tasks
+
+- Update Git Cliff configs and the changelog
+- Update compatibility date on wrangler configs
+
 ## [1.0.0-alpha.6] - 2024-04-27
 
-### Bug Fixes
+### 🐛 Bug Fixes
 
 - Solve some minor issues and update dependencies
 
 ## [1.0.0-alpha.5] - 2024-04-18
 
-### Bug Fixes
+### 🐛 Bug Fixes
 
 - Solve some minor issues and update dependencies
 
 ## [1.0.0-alpha.4] - 2024-04-08
 
-### Bug Fixes
+### 🐛 Bug Fixes
 
 - Solve some minor issues and update dependencies
 
 ## [1.0.0-alpha.3] - 2024-02-28
 
-### Bug Fixes
+### 🐛 Bug Fixes
 
 - Solve some minor issues and update dependencies
 
 ## [1.0.0-alpha.2] - 2024-02-11
 
-### Documentation
+### 📚 Documentation
 
 - Update the  project readme file title and description
 
 ## [1.0.0-alpha.1] - 2024-02-11
 
-### Features
+### 🚀 Features
 
 - Add `checkENSExists` function to check ens availability
 - Create new method for generate each page using Cloudinary
 - Create domains routes for check subdomain availability
 
-### Refactor
+### 🚜 Refactor
 
 - Move hello routes to the routes folder
 - Move types over separate files and add binding for Hono
 
-### Miscellaneous Tasks
+### ⚙️ Miscellaneous Tasks
 
 - Add back localtunnel to the scripts
 
 ## [1.0.0-alpha.0] - 2024-02-09
 
-### Refactor
+### 🚜 Refactor
 
 - Migrate index codes to worker instead of nodejs
 
-### Documentation
+### 📚 Documentation
 
 - Update and cleanup project readme file
 - Remove unnecessary parts from readme file
 
-### Miscellaneous Tasks
+### ⚙️ Miscellaneous Tasks
 
 - Cleanup unnecessary files of template
 - Replace `localtunnel` by `wrangler` on scripts
