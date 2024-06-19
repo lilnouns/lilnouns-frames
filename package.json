@@ -24,7 +24,7 @@
     "@types/eslint": "8.56.10",
     "@types/eslint-config-prettier": "6.11.3",
     "@types/localtunnel": "2.0.4",
-    "@types/node": "20.14.2",
+    "@types/node": "20.14.5",
     "@typescript-eslint/eslint-plugin": "7.13.1",
     "@typescript-eslint/parser": "7.13.1",
     "eslint": "9.5.0",
