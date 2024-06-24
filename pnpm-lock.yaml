@@ -30,8 +30,8 @@ devDependencies:
     specifier: 2.0.4
     version: 2.0.4
   '@types/node':
-    specifier: 20.14.7
-    version: 20.14.7
+    specifier: 20.14.8
+    version: 20.14.8
   '@typescript-eslint/eslint-plugin':
     specifier: 7.13.1
     version: 7.13.1(@typescript-eslint/parser@7.13.1)(eslint@9.5.0)(typescript@5.5.2)
@@ -731,7 +731,7 @@ packages:
   /@types/localtunnel@2.0.4:
     resolution: {integrity: sha512-7WM5nlEfEKp8MpwthPa2utdy+f/7ZBxMPzu8qw6EijFFTcpzh5CXgt2YoncxWAZNOPNieMofXCKFudtDEY4bag==}
     dependencies:
-      '@types/node': 20.14.7
+      '@types/node': 20.14.8
     dev: true
 
   /@types/mdast@4.0.4:
@@ -747,11 +747,11 @@ packages:
   /@types/node-forge@1.3.11:
     resolution: {integrity: sha512-FQx220y22OKNTqaByeBGqHWYz4cl94tpcxeFdvBo3wjG6XPBuZ0BNgNZRV5J5TFmmcsJ4IzsLkmGRiQbnYsBEQ==}
     dependencies:
-      '@types/node': 20.14.7
+      '@types/node': 20.14.8
     dev: true
 
-  /@types/node@20.14.7:
-    resolution: {integrity: sha512-uTr2m2IbJJucF3KUxgnGOZvYbN0QgkGyWxG6973HCpMYFy2KfcgYuIwkJQMQkt1VbBMlvWRbpshFTLxnxCZjKQ==}
+  /@types/node@20.14.8:
+    resolution: {integrity: sha512-DO+2/jZinXfROG7j7WKFn/3C6nFwxy2lLpgLjEXJz+0XKphZlTLJ14mo8Vfg8X5BWN6XjyESXq+LcYdT7tR3bA==}
     dependencies:
       undici-types: 5.26.5
     dev: true
