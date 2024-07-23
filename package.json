@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@cloudflare/workers-types": "4.20240718.0",
-    "@types/eslint": "8.56.10",
+    "@types/eslint": "9.6.0",
     "@types/eslint-config-prettier": "6.11.3",
     "@types/localtunnel": "2.0.4",
     "@types/node": "20.14.11",
