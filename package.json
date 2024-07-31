@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@cloudinary/url-gen": "1.19.0",
-    "hono": "4.5.1"
+    "hono": "4.5.3"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "4.20240725.0",
