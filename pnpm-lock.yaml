@@ -13,8 +13,8 @@ importers:
   .:
     dependencies:
       '@cloudinary/url-gen':
-        specifier: 1.19.0
-        version: 1.19.0
+        specifier: 1.20.0
+        version: 1.20.0
       hono:
         specifier: 4.5.3
         version: 4.5.3
@@ -128,11 +128,11 @@ packages:
   '@cloudflare/workers-types@4.20240725.0':
     resolution: {integrity: sha512-L6T/Bg50zm9IIACQVQ0CdVcQL+2nLkRXdPz6BsXF3SlzgjyWR5ndVctAbfr/HLV7aKYxWnnEZsIORsTWb+FssA==}
 
-  '@cloudinary/transformation-builder-sdk@1.13.3':
-    resolution: {integrity: sha512-tBMpjcwBjUgINGm2lKodb1fe32yBeq2KTSD7TrrFPm2/dQOb7lKmVuDaDe89IPcV+QZbb1JY/ZWL9pZjUV4aKw==}
+  '@cloudinary/transformation-builder-sdk@1.14.1':
+    resolution: {integrity: sha512-z49To4r3byg7zHsOGKsw/nHef5B9W3wSBdDsGoY7JOj75kbvmSlP4MCkS0JU3Bv57EvYYw5ymalPz+bvRXmPlA==}
 
-  '@cloudinary/url-gen@1.19.0':
-    resolution: {integrity: sha512-3WSqYAMEe8lcYMFmkNPhOfv6Ql76mpf8O7YEC+CCaoIYrfBubzzeF8yENCaZK9tFJEHvMepI+uWWfilNrz48XA==}
+  '@cloudinary/url-gen@1.20.0':
+    resolution: {integrity: sha512-SWtxDOZeROocIYhubtlrSvKlf1H7wBeVaIWqOOvz8TxbHvMLZanRHyNUv8YSxIsrzrjkLk1sI0Q2fr+6FkcqzA==}
 
   '@cspotcode/source-map-support@0.8.1':
     resolution: {integrity: sha512-IchNf6dN4tHoMFIn/7OE8LWZ19Y6q/67Bmf6vnGREv8RSbBVb9LPJxEcnwrcwX6ixSvaiGoomAUvu4YSxXrVgw==}
@@ -1669,13 +1669,13 @@ snapshots:
 
   '@cloudflare/workers-types@4.20240725.0': {}
 
-  '@cloudinary/transformation-builder-sdk@1.13.3':
+  '@cloudinary/transformation-builder-sdk@1.14.1':
     dependencies:
-      '@cloudinary/url-gen': 1.19.0
+      '@cloudinary/url-gen': 1.20.0
 
-  '@cloudinary/url-gen@1.19.0':
+  '@cloudinary/url-gen@1.20.0':
     dependencies:
-      '@cloudinary/transformation-builder-sdk': 1.13.3
+      '@cloudinary/transformation-builder-sdk': 1.14.1
 
   '@cspotcode/source-map-support@0.8.1':
     dependencies:
