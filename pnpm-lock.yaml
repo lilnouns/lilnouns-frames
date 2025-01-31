@@ -19,7 +19,7 @@ importers:
         version: 1.21.0
       hono:
         specifier: '>=4.6.5'
-        version: 4.6.19
+        version: 4.6.20
     devDependencies:
       '@cloudflare/workers-types':
         specifier: 4.20250129.0
@@ -986,8 +986,8 @@ packages:
     resolution: {integrity: sha512-0hJU9SCPvmMzIBdZFqNPXWa6dqh7WdH0cII9y+CyS8rG3nL48Bclra9HmKhVVUHyPWNH5Y7xDwAB7bfgSjkUMQ==}
     engines: {node: '>= 0.4'}
 
-  hono@4.6.19:
-    resolution: {integrity: sha512-Xw5DwU2cewEsQ1DkDCdy6aBJkEBARl5loovoL1gL3/gw81RdaPbXrNJYp3LoQpzpJ7ECC/1OFi/vn3UZTLHFEw==}
+  hono@4.6.20:
+    resolution: {integrity: sha512-5qfNQeaIptMaJKyoJ6N/q4gIq0DBp2FCRaLNuUI3LlJKL4S37DY/rLL1uAxA4wrPB39tJ3s+f7kgI79O4ScSug==}
     engines: {node: '>=16.9.0'}
 
   hosted-git-info@2.8.9:
@@ -2413,7 +2413,7 @@ snapshots:
     dependencies:
       function-bind: 1.1.2
 
-  hono@4.6.19: {}
+  hono@4.6.20: {}
 
   hosted-git-info@2.8.9: {}
 
