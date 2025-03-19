@@ -22,8 +22,8 @@ importers:
         version: 4.7.4
     devDependencies:
       '@cloudflare/workers-types':
-        specifier: 4.20250313.0
-        version: 4.20250313.0
+        specifier: 4.20250317.0
+        version: 4.20250317.0
       '@types/eslint':
         specifier: 9.6.1
         version: 9.6.1
@@ -77,7 +77,7 @@ importers:
         version: 5.8.2
       wrangler:
         specifier: 4.0.0
-        version: 4.0.0(@cloudflare/workers-types@4.20250313.0)
+        version: 4.0.0(@cloudflare/workers-types@4.20250317.0)
 
 packages:
 
@@ -132,8 +132,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@cloudflare/workers-types@4.20250313.0':
-    resolution: {integrity: sha512-iqyzZwogC+3yL8h58vMhjYQUHUZA8XazE3Q+ofR59wDOnsPe/u9W6+aCl408N0iNBhMPvpJQQ3/lkz0iJN2fhA==}
+  '@cloudflare/workers-types@4.20250317.0':
+    resolution: {integrity: sha512-ud1x5D1ksDIdx35jsx6wG9G8a/SLeg7kfGv/c732umLYn7I+DZ7TdKTvM1LaWTLzp+yYGyXZOrInJywfUU8bVw==}
 
   '@cloudinary/transformation-builder-sdk@1.15.1':
     resolution: {integrity: sha512-Dvm5DzGPq6NtXRLhpubu7SVfD+TLEWbU9q/FOxpGelWpn3NaTSOH/b+jRbpTL+EgYSHeaTeK6kHMraousPkNQg==}
@@ -1693,7 +1693,7 @@ snapshots:
   '@cloudflare/workerd-windows-64@1.20250310.0':
     optional: true
 
-  '@cloudflare/workers-types@4.20250313.0': {}
+  '@cloudflare/workers-types@4.20250317.0': {}
 
   '@cloudinary/transformation-builder-sdk@1.15.1':
     dependencies:
@@ -3113,7 +3113,7 @@ snapshots:
       '@cloudflare/workerd-linux-arm64': 1.20250310.0
       '@cloudflare/workerd-windows-64': 1.20250310.0
 
-  wrangler@4.0.0(@cloudflare/workers-types@4.20250313.0):
+  wrangler@4.0.0(@cloudflare/workers-types@4.20250317.0):
     dependencies:
       '@cloudflare/kv-asset-handler': 0.4.0
       '@cloudflare/unenv-preset': 2.0.2(unenv@2.0.0-rc.14)(workerd@1.20250310.0)
@@ -3124,7 +3124,7 @@ snapshots:
       unenv: 2.0.0-rc.14
       workerd: 1.20250310.0
     optionalDependencies:
-      '@cloudflare/workers-types': 4.20250313.0
+      '@cloudflare/workers-types': 4.20250317.0
       fsevents: 2.3.3
       sharp: 0.33.5
     transitivePeerDependencies:
