@@ -22,8 +22,8 @@ importers:
         version: 4.7.7
     devDependencies:
       '@cloudflare/workers-types':
-        specifier: 4.20250425.0
-        version: 4.20250425.0
+        specifier: 4.20250522.0
+        version: 4.20250522.0
       '@types/eslint':
         specifier: 9.6.1
         version: 9.6.1
@@ -77,7 +77,7 @@ importers:
         version: 5.8.3
       wrangler:
         specifier: 4.13.0
-        version: 4.13.0(@cloudflare/workers-types@4.20250425.0)
+        version: 4.13.0(@cloudflare/workers-types@4.20250522.0)
 
 packages:
 
@@ -132,8 +132,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@cloudflare/workers-types@4.20250425.0':
-    resolution: {integrity: sha512-BOU4hbK7Bhcxhmjuk/FcDopWvdvuCLMIanHjNxI0UflPhsFJj5se224iNluw8T5pROA0NFAYhBd3Up784p2/Jw==}
+  '@cloudflare/workers-types@4.20250522.0':
+    resolution: {integrity: sha512-9RIffHobc35JWeddzBguGgPa4wLDr5x5F94+0/qy7LiV6pTBQ/M5qGEN9VA16IDT3EUpYI0WKh6VpcmeVEtVtw==}
 
   '@cloudinary/transformation-builder-sdk@1.15.1':
     resolution: {integrity: sha512-Dvm5DzGPq6NtXRLhpubu7SVfD+TLEWbU9q/FOxpGelWpn3NaTSOH/b+jRbpTL+EgYSHeaTeK6kHMraousPkNQg==}
@@ -1701,7 +1701,7 @@ snapshots:
   '@cloudflare/workerd-windows-64@1.20250422.0':
     optional: true
 
-  '@cloudflare/workers-types@4.20250425.0': {}
+  '@cloudflare/workers-types@4.20250522.0': {}
 
   '@cloudinary/transformation-builder-sdk@1.15.1':
     dependencies:
@@ -3131,7 +3131,7 @@ snapshots:
       '@cloudflare/workerd-linux-arm64': 1.20250422.0
       '@cloudflare/workerd-windows-64': 1.20250422.0
 
-  wrangler@4.13.0(@cloudflare/workers-types@4.20250425.0):
+  wrangler@4.13.0(@cloudflare/workers-types@4.20250522.0):
     dependencies:
       '@cloudflare/kv-asset-handler': 0.4.0
       '@cloudflare/unenv-preset': 2.3.1(unenv@2.0.0-rc.15)(workerd@1.20250422.0)
@@ -3142,7 +3142,7 @@ snapshots:
       unenv: 2.0.0-rc.15
       workerd: 1.20250422.0
     optionalDependencies:
-      '@cloudflare/workers-types': 4.20250425.0
+      '@cloudflare/workers-types': 4.20250522.0
       fsevents: 2.3.3
       sharp: 0.33.5
     transitivePeerDependencies:
