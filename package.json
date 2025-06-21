@@ -1,6 +1,6 @@
 {
   "name": "lilnouns-frames",
-  "version": "1.0.0-alpha.26",
+  "version": "1.0.0-alpha.27",
   "keywords": [
     "farcaster",
     "frames",
@@ -17,18 +17,18 @@
   },
   "dependencies": {
     "@cloudinary/url-gen": "1.21.0",
-    "hono": "4.7.5"
+    "hono": "4.7.7"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "4.20250405.0",
+    "@cloudflare/workers-types": "4.20250425.0",
     "@types/eslint": "9.6.1",
     "@types/eslint-config-prettier": "6.11.3",
     "@types/localtunnel": "2.0.4",
-    "@types/node": "22.14.0",
-    "@typescript-eslint/eslint-plugin": "8.29.0",
-    "@typescript-eslint/parser": "8.29.0",
-    "eslint": "9.23.0",
-    "eslint-config-prettier": "10.1.1",
+    "@types/node": "22.15.0",
+    "@typescript-eslint/eslint-plugin": "8.31.0",
+    "@typescript-eslint/parser": "8.31.0",
+    "eslint": "9.25.1",
+    "eslint-config-prettier": "10.1.2",
     "eslint-plugin-prettier": "5.2.6",
     "eslint-plugin-unicorn": "58.0.0",
     "localtunnel": "2.0.2",
@@ -37,8 +37,8 @@
     "prettier-plugin-organize-attributes": "1.0.0",
     "prettier-plugin-organize-imports": "4.1.0",
     "tsx": "4.19.3",
-    "typescript": "5.8.2",
-    "wrangler": "4.7.0"
+    "typescript": "5.8.3",
+    "wrangler": "4.13.0"
   },
   "resolutions": {
     "axios": ">=1.7.4",
