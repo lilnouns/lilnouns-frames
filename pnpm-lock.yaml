@@ -22,8 +22,8 @@ importers:
         version: 4.9.9
     devDependencies:
       '@cloudflare/workers-types':
-        specifier: 4.20250927.0
-        version: 4.20250927.0
+        specifier: 4.20251001.0
+        version: 4.20251001.0
       '@types/eslint':
         specifier: 9.6.1
         version: 9.6.1
@@ -77,7 +77,7 @@ importers:
         version: 5.9.3
       wrangler:
         specifier: 4.40.3
-        version: 4.40.3(@cloudflare/workers-types@4.20250927.0)
+        version: 4.40.3(@cloudflare/workers-types@4.20251001.0)
 
 packages:
 
@@ -128,8 +128,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@cloudflare/workers-types@4.20250927.0':
-    resolution: {integrity: sha512-XcFVTMNhHROLQ+AbmK6KQuis72iGCdQXrjVl2xX98ac7w3fzUiNfTsu+SKBXN9dSEjgJEhhj0EXSAXh0b8lSww==}
+  '@cloudflare/workers-types@4.20251001.0':
+    resolution: {integrity: sha512-MXseDjmqL1hIdQCqwHDMG8SE60W4FdwqLsofZjo/KtLH9zFcoQfZkCYyQrdfEJINiSoNJjrup7WR6KsqiFUSsg==}
 
   '@cloudinary/transformation-builder-sdk@1.21.2':
     resolution: {integrity: sha512-ehOgKUaP+Nvuf7B0TosmB8iilL0kdiVjzjl8tIK06cjvsNnwSJI3xP9nEJmKkvqNxwwFwvYXT+mxUTqnSv9JOA==}
@@ -1649,7 +1649,7 @@ snapshots:
   '@cloudflare/workerd-windows-64@1.20250927.0':
     optional: true
 
-  '@cloudflare/workers-types@4.20250927.0': {}
+  '@cloudflare/workers-types@4.20251001.0': {}
 
   '@cloudinary/transformation-builder-sdk@1.21.2':
     dependencies:
@@ -3022,7 +3022,7 @@ snapshots:
       '@cloudflare/workerd-linux-arm64': 1.20250927.0
       '@cloudflare/workerd-windows-64': 1.20250927.0
 
-  wrangler@4.40.3(@cloudflare/workers-types@4.20250927.0):
+  wrangler@4.40.3(@cloudflare/workers-types@4.20251001.0):
     dependencies:
       '@cloudflare/kv-asset-handler': 0.4.0
       '@cloudflare/unenv-preset': 2.7.5(unenv@2.0.0-rc.21)(workerd@1.20250927.0)
@@ -3033,7 +3033,7 @@ snapshots:
       unenv: 2.0.0-rc.21
       workerd: 1.20250927.0
     optionalDependencies:
-      '@cloudflare/workers-types': 4.20250927.0
+      '@cloudflare/workers-types': 4.20251001.0
       fsevents: 2.3.3
     transitivePeerDependencies:
       - bufferutil
