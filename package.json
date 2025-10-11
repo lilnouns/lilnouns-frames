@@ -1,6 +1,6 @@
 {
   "name": "lilnouns-frames",
-  "version": "1.0.0-alpha.31",
+  "version": "1.0.0-alpha.32",
   "keywords": [
     "farcaster",
     "frames",
@@ -17,17 +17,17 @@
   },
   "dependencies": {
     "@cloudinary/url-gen": "1.22.0",
-    "hono": "4.9.9"
+    "hono": "4.9.10"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "4.20250927.0",
+    "@cloudflare/workers-types": "4.20251008.0",
     "@types/eslint": "9.6.1",
     "@types/eslint-config-prettier": "6.11.3",
     "@types/localtunnel": "2.0.4",
-    "@types/node": "24.5.2",
-    "@typescript-eslint/eslint-plugin": "8.44.1",
-    "@typescript-eslint/parser": "8.44.1",
-    "eslint": "9.36.0",
+    "@types/node": "24.7.1",
+    "@typescript-eslint/eslint-plugin": "8.46.0",
+    "@typescript-eslint/parser": "8.46.0",
+    "eslint": "9.37.0",
     "eslint-config-prettier": "10.1.8",
     "eslint-plugin-prettier": "5.5.4",
     "eslint-plugin-unicorn": "61.0.2",
@@ -37,8 +37,8 @@
     "prettier-plugin-organize-attributes": "1.0.0",
     "prettier-plugin-organize-imports": "4.3.0",
     "tsx": "4.20.6",
-    "typescript": "5.9.2",
-    "wrangler": "4.40.2"
+    "typescript": "5.9.3",
+    "wrangler": "4.42.2"
   },
   "resolutions": {
     "axios": ">=1.7.4",
