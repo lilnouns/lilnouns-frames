@@ -1,6 +1,6 @@
 {
   "name": "lilnouns-frames",
-  "version": "1.0.0-alpha.35",
+  "version": "1.0.0-alpha.36",
   "keywords": [
     "farcaster",
     "frames",
@@ -17,16 +17,16 @@
   },
   "dependencies": {
     "@cloudinary/url-gen": "1.22.0",
-    "hono": "4.10.4"
+    "hono": "4.10.6"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "4.20251106.1",
+    "@cloudflare/workers-types": "4.20251121.0",
     "@types/eslint": "9.6.1",
     "@types/eslint-config-prettier": "6.11.3",
     "@types/localtunnel": "2.0.4",
-    "@types/node": "24.10.0",
-    "@typescript-eslint/eslint-plugin": "8.46.3",
-    "@typescript-eslint/parser": "8.46.3",
+    "@types/node": "24.10.1",
+    "@typescript-eslint/eslint-plugin": "8.48.0",
+    "@typescript-eslint/parser": "8.48.0",
     "eslint": "9.39.1",
     "eslint-config-prettier": "10.1.8",
     "eslint-plugin-prettier": "5.5.4",
