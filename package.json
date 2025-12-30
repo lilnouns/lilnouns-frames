@@ -1,6 +1,6 @@
 {
   "name": "lilnouns-frames",
-  "version": "1.0.0-alpha.40",
+  "version": "1.0.0-alpha.41",
   "keywords": [
     "farcaster",
     "frames",
@@ -47,7 +47,8 @@
     "undici": ">=6.19.2"
   },
   "engines": {
-    "node": ">=18.0.0",
-    "pnpm": ">=8.0.0"
-  }
+    "node": "^24",
+    "pnpm": "^10"
+  },
+  "packageManager": "pnpm@10.26.2"
 }
