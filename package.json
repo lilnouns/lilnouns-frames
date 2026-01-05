@@ -1,6 +1,6 @@
 {
   "name": "lilnouns-frames",
-  "version": "1.0.0-alpha.41",
+  "version": "1.0.0-alpha.42",
   "keywords": [
     "farcaster",
     "frames",
@@ -50,5 +50,5 @@
     "node": "^24",
     "pnpm": "^10"
   },
-  "packageManager": "pnpm@10.26.2"
+  "packageManager": "pnpm@10.27.0"
 }
