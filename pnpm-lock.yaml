@@ -34,8 +34,8 @@ importers:
         specifier: 2.0.4
         version: 2.0.4
       '@types/node':
-        specifier: 25.1.0
-        version: 25.1.0
+        specifier: 26.0.1
+        version: 26.0.1
       '@typescript-eslint/eslint-plugin':
         specifier: 8.62.0
         version: 8.62.0(@typescript-eslint/parser@8.62.0(eslint@10.6.0)(typescript@5.9.3))(eslint@10.6.0)(typescript@5.9.3)
@@ -663,8 +663,8 @@ packages:
   '@types/ms@2.1.0':
     resolution: {integrity: sha512-GsCCIZDE/p3i96vtEqx+7dBUGXrc7zeSK3wwPHIaRThS+9OhWIXRqzs4d6k1SVU8g91DrNRWxWUGhp5KXQb2VA==}
 
-  '@types/node@25.1.0':
-    resolution: {integrity: sha512-t7frlewr6+cbx+9Ohpl0NOTKXZNV9xHRmNOvql47BFJKcEG1CxtxlPEEe+gR9uhVWM4DwhnvTF110mIL4yP9RA==}
+  '@types/node@26.0.1':
+    resolution: {integrity: sha512-fc3KiUoBt6kie0N9bIW3E47vZsuaMf0PM2AaUpLCLT0s/LvX1nxAim6Fc049cNxODPpGm6qRAuUOB86SkRuPQw==}
 
   '@types/unist@3.0.3':
     resolution: {integrity: sha512-ko/gIFJRv177XgZsZcBwnqJN5x/Gien8qNOn0D5bQU/zAzVf9Zt3BlcUiLqhV9y4ARk0GbT3tnUiPNgnTXzc/Q==}
@@ -1446,8 +1446,8 @@ packages:
   ufo@1.6.1:
     resolution: {integrity: sha512-9a4/uxlTWJ4+a5i0ooc1rU7C7YOw3wT+UGqdeNNHWnOF9qcMBgLRS+4IYUqbczewFx4mLEig6gawh7X6mFlEkA==}
 
-  undici-types@7.16.0:
-    resolution: {integrity: sha512-Zz+aZWSj8LE6zoxD+xrjh4VfkIG8Ya6LvYkZqtUQGJPZjYl53ypCaUwWqo7eI0x66KBGeRo+mlBEkMSeSZ38Nw==}
+  undici-types@8.3.0:
+    resolution: {integrity: sha512-j375ScV60dom+YkPFIfTLcOiPxkN/buHz5GobjLhixFuANaNs3C9l4GmrWqejgXWJ7BbJcFYpTEUkS1Ge8bpZQ==}
 
   undici@7.16.0:
     resolution: {integrity: sha512-QEg3HPMll0o3t2ourKwOeUAZ159Kn9mx5pnzHRQO8+Wixmh88YdZRiIwat0iNzNNXn0yoEtXJqFpyW7eM8BV7g==}
@@ -1898,7 +1898,7 @@ snapshots:
 
   '@types/localtunnel@2.0.4':
     dependencies:
-      '@types/node': 25.1.0
+      '@types/node': 26.0.1
 
   '@types/mdast@4.0.4':
     dependencies:
@@ -1906,9 +1906,9 @@ snapshots:
 
   '@types/ms@2.1.0': {}
 
-  '@types/node@25.1.0':
+  '@types/node@26.0.1':
     dependencies:
-      undici-types: 7.16.0
+      undici-types: 8.3.0
 
   '@types/unist@3.0.3': {}
 
@@ -2800,7 +2800,7 @@ snapshots:
 
   ufo@1.6.1: {}
 
-  undici-types@7.16.0: {}
+  undici-types@8.3.0: {}
 
   undici@7.16.0: {}
 
