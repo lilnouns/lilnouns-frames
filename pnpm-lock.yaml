@@ -19,7 +19,7 @@ importers:
         version: 1.22.0
       hono:
         specifier: '>=4.6.5'
-        version: 4.12.29
+        version: 4.12.30
     devDependencies:
       '@cloudflare/workers-types':
         specifier: 4.20260702.1
@@ -1062,8 +1062,8 @@ packages:
     resolution: {integrity: sha512-Czmyns5dUsq4seFBR/Kdydhmo8y9kC79hiSkPn0YcGtNnYWnrgt0vjrSjx9tspoDGWm2CMarffRuLjM4xUz8xg==}
     engines: {node: '>=18'}
 
-  hono@4.12.29:
-    resolution: {integrity: sha512-1hNiRjawYrLq/4m3DQQjPGFg0VZkk4RjQJDff/excI6Dm9BiL75qxGrd7/c6YOxPdq6AscP3LiXhQ6fKFC1Waw==}
+  hono@4.12.30:
+    resolution: {integrity: sha512-emn+JoJjrN9YTpRDS5it/UI2SO9BAE37T6I3d963RxcZ81G9A4pr2SZTEiiaiKbzx+NKRg5BZ89fCL7gCJCUog==}
     engines: {node: '>=16.9.0'}
 
   identifier-regex@1.1.0:
@@ -2368,7 +2368,7 @@ snapshots:
 
   globals@17.7.0: {}
 
-  hono@4.12.29: {}
+  hono@4.12.30: {}
 
   identifier-regex@1.1.0:
     dependencies:
